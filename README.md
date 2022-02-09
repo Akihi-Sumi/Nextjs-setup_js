@@ -24,3 +24,6 @@ Next.jsの環境構築　JavaScript版
 4, Click green icon, and "Reopen in Container"
 
 *2回目以降は、"Reopen in Container"のみでOK
+
+## もし、ホットリロードされなかったら
+https://weblion303.net/2515　を参考
