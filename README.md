@@ -26,4 +26,4 @@ Next.jsの環境構築　JavaScript版
 *2回目以降は、"Reopen in Container"のみでOK
 
 ## もし、ホットリロードされなかったら
-https://weblion303.net/2515　を参考
+https://weblion303.net/2515
